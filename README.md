@@ -1,5 +1,6 @@
 # 🤖 AI Data Analysis Assistant
 
+https://aidataanalysisassistant.streamlit.app/
 An AI-powered data analysis assistant that allows users to upload a CSV dataset and ask questions about their data using natural language.
 
 The system uses an AI agent to understand the user's question, select the appropriate analysis operation, perform the calculation using Python, and provide a clear explanation of the result.
